@@ -1,7 +1,7 @@
 {
-  "name": "clone-tabnews",
+  "name": "my-events",
   "version": "1.0.0",
-  "description": "Projeto do https://curso.dev, implementando o https://www.tabnews.com.br",
+  "description": "Aplicativo para criação e gestão de festas de aniversarios e eventos em geral",
   "main": "index.js",
   "scripts": {
     "dev": "npm run services:up && npm run services:wait:database && npm run migrations:up && next dev",
